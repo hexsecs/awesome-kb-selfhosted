@@ -4,6 +4,7 @@ from pathlib import Path
 from collections import defaultdict
 import argparse, hashlib, json, re, secrets, subprocess, time, uuid
 import yaml
+from urllib.parse import urlsplit, urlunsplit
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = json.loads((ROOT / "ingest.json").read_text())
 
@@ -19,7 +20,8 @@ def mint_uid() -> str:
 
 
 def normalise(url):
-    return re.sub(r"^https?://", "", url).rstrip("/").lower()
+    parts = urlsplit(url)
+    return urlunsplit(("", parts.netloc.lower(), parts.path.rstrip("/"), parts.query, parts.fragment))
 
 def slug(text):
     return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-") or "entry"
