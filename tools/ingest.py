@@ -187,7 +187,10 @@ def main():
         index.append("- [" + category + "](wiki/" + name + ".md) — " + str(len(items)) + " entries")
     (ROOT / "index.md").write_text("\n".join(index) + "\n")
     after = snapshot(ROOT)
+    from render_readme import render_readme
+    render_readme(ROOT)
     print(str(len(entries)) + " source rows; " + str(len(grouped)) + " unique resources; " + str(sum(before.get(k) != v for k, v in after.items())) + " files changed")
 
 if __name__ == "__main__":
     main()
+
