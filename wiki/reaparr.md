@@ -1,0 +1,38 @@
+---
+{
+  "title": "Reaparr",
+  "summary": "Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. (Source Code) GPL-3.0 Docker",
+  "type": "entity",
+  "category": "Media Management",
+  "url": "https://www.reaparr.rocks/",
+  "list_summary": "Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ([Source Code](https://github.com/Reaparr/Reaparr)) `GPL-3.0` `Docker`",
+  "list_entries": [
+    {
+      "title": "Reaparr",
+      "url": "https://www.reaparr.rocks/",
+      "category": "Media Management",
+      "description": "Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ([Source Code](https://github.com/Reaparr/Reaparr)) `GPL-3.0` `Docker`"
+    }
+  ],
+  "uid": "01a1a884-1f29-7e10-8488-2a58be482eab",
+  "created": "2026-11-04",
+  "depth": "stub",
+  "status": "unknown",
+  "updated": "2026-11-04",
+  "source_list": "awesome-selfhosted/awesome-selfhosted",
+  "source_commit": "ebc8cb0883fcf5cf061245db9398b9a93fd6628a",
+  "sources": [
+    {
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted/blob/ebc8cb0883fcf5cf061245db9398b9a93fd6628a/README.md",
+      "retrieved": "2026-11-04"
+    }
+  ]
+}
+---
+
+Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. (Source Code) GPL-3.0 Docker
+
+- **Resource:** https://www.reaparr.rocks/
+- **Source:** [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/ebc8cb0883fcf5cf061245db9398b9a93fd6628a/README.md)
+
+Generated stub; resource status has not been independently checked.
