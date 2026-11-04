@@ -10,6 +10,8 @@ def digest(root):
     return {str(p.relative_to(root)): hashlib.sha256(p.read_bytes()).hexdigest() for p in root.rglob('*') if p.is_file() and '__pycache__' not in str(p)}
 
 def main():
+    from render_readme import render_readme
+    render_readme(ROOT, check=True)
     entries = ingest.parse_list(ROOT / 'raw/2026-11-04/README.md')
     grouped = {}
     for e in entries: grouped.setdefault(ingest.normalise(e['url']), []).append(e)
@@ -71,3 +73,4 @@ def main():
             assert f['uid'] == original['uid'] and f['created'] == original['created']
     print(f'PASS: {len(entries)} source rows, {len(pages)} unique resources; coverage, UUIDs, provenance, links, checksums, idempotency, authored-depth preservation')
 if __name__ == '__main__': main()
+
