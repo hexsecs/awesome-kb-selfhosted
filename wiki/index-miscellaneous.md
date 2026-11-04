@@ -1,0 +1,81 @@
+---
+type: index
+title: "Miscellaneous"
+---
+
+# Miscellaneous
+
+- [2FAuth](2fauth.md) — Manage your Two-Factor Authentication (2FA) accounts and generate their security codes. (Demo) AGPL-3.0 PHP/Docker
+- [Anchr](anchr.md) — Toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. (Source Code) GPL-3.0 Nodejs
+- [Anubis](anubis.md) — Web AI firewall utility which protects upstream resources from scraper bots. (Source Code) MIT Docker/deb/Go
+- [asciinema](asciinema.md) — Web app for hosting asciicasts. (Demo, Source Code) Apache-2.0 Elixir/Docker
+- [Baby Buddy](baby-buddy.md) — Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. (Demo) BSD-2-Clause Python
+- [ClipCascade](clipcascade.md) — Syncs your clipboard across multiple devices instantly, without any button press. Available on Windows, macOS, Linux, and Android, it provides seamless and…
+- [Cloudlog](cloudlog.md) — Log your amateur radio contacts anywhere. (Source Code) MIT PHP/Docker
+- [ConvertX](convertx.md) — Online file converter which supports over a thousand different formats. AGPL-3.0 Docker
+- [CUPS](cups.md) — Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. (Source Code) GPL-2.0 C
+- [CyberChef](cyberchef.md) — Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and…
+- [Digiboard](digiboard.md) — Create collaborative whiteboards (documentation in French). (Source Code) AGPL-3.0 Nodejs
+- [Digicard](digicard.md) — Create simple graphic compositions (documentation in French). (Demo) AGPL-3.0 Nodejs
+- [Digicut](digicut.md) — Cut audio and video files using FFMPEG.wasm (documentation in French). (Source Code) AGPL-3.0 Nodejs
+- [Digiface](digiface.md) — Create avatars using the Avataaars library (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs
+- [Digiflashcards](digiflashcards.md) — Online application to create flashcards (documentation in French). (Source Code) AGPL-3.0 Nodejs/PHP
+- [Digimerge](digimerge.md) — Assemble audio and video files directly in your browser (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs
+- [Digiquiz](digiquiz.md) — Online application to publish content created with H5P (documentation in French). (Source Code) AGPL-3.0 Nodejs
+- [Digiread](digiread.md) — Clean up online pages and articles using Mozilla's Readability (documentation in French). (Source Code) AGPL-3.0 Nodejs/PHP
+- [Digisteps](digisteps.md) — Simple application for creating online educational paths (documentation in French). (Source Code) AGPL-3.0 Nodejs/PHP
+- [Digitranscode](digitranscode.md) — Convert audio files and videos directly in the browser (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs
+- [Digiview](digiview.md) — View YouTube videos in a distraction-free interface (documentation in French). (Demo, Source Code) AGPL-3.0 Nodejs/PHP
+- [Digiwords](digiwords.md) — Simple online application for creating word clouds (documentation in French). (Source Code) AGPL-3.0 Nodejs/PHP
+- [DOCAT](docat.md) — Host your docs. Simple. Versioned. Fancy. MIT Python/Docker
+- [Domain Locker](domain-locker.md) — Domain name portfolio management and tracker. (Demo, Source Code) MIT Deno/Docker
+- [DOMJudge](domjudge.md) — System for running a programming contest, like the ICPC regional and world championship programming contests. (Demo, Source Code) GPL-2.0/BSD-3-Clause/MIT PHP
+- [ESMira](esmira.md) — Run longitudinal studies (ESM, AA, EMA) with data collection and communication with participants being completely anonymous. (Demo, Source Code) AGPL-3.0 PHP
+- [F-Droid](f-droid.md) — Server tools for maintaining an F-Droid repository system. (Source Code) AGPL-3.0 Python/Docker/deb
+- [Flyimg](flyimg.md) — Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. (Demo, Source Code)…
+- [Garlic-Hub](garlic-hub.md) — Digital signage device and content management system with SMIL playlist support and scheduling. (Source Code) AGPL-3.0 Docker
+- [Geeftlist](geeftlist.md) — Collaborative platform for managing, sharing and reserving gifts between friends and family. GPL-3.0 Docker
+- [google-webfonts-helper](google-webfonts-helper.md) — Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. (Demo) MIT Nodejs
+- [Habitica](habitica.md) — Habit tracker app which treats your goals like a Role Playing Game. (Source Code) GPL-3.0/CC-BY-SA-3.0 Nodejs/Docker
+- [HortusFox](hortusfox.md) — Collaborative plant management and tracking system for plant enthusiasts. (Source Code) MIT PHP/Docker
+- [ImgCompress](imgcompress.md) — Image processing tool that runs entirely in Docker. Compress, convert, resize, batch-process images, and remove backgrounds using local AI without cloud…
+- [Infisical Community Edition](infisical-community-edition.md) — Platform for secrets, certificates, and privileged access management. (Source Code) MIT Docker/K8S/deb
+- [iSponsorBlockTV](isponsorblocktv.md) — Block and skip sponsors, while also muting and skipping ads on YouTube. GPL-3.0 Docker/Python
+- [IT-Tools by sharevb](it-tools-by-sharevb.md) — Collection of handy online tools for developers (fork of it-tools). (Demo) GPL-3.0 Docker
+- [Jelu](jelu.md) — Read and to-read list book tracker. (Source Code) MIT Java/Docker
+- [jetlog](jetlog.md) — Personal flight tracker and viewer. GPL-2.0 Docker
+- [Kasm Workspaces](kasm-workspaces.md) — Streaming containerized apps and desktops to end-users. Examples include Ubuntu in your browser, or simply single apps such as Chrome, OpenOffice, Gimp…
+- [Koillection](koillection.md) — Service allowing users to manage any kind of collections. (Source Code) MIT Docker/PHP
+- [LanguageTool](languagetool.md) — Proofread more than 20 languages. It finds many errors that a simple spell checker cannot detect. (Source Code, Clients) LGPL-2.1 Java/Docker
+- [Libre Translate](libre-translate.md) — Machine Translation API. (Source Code) AGPL-3.0 Docker/Python
+- [LubeLogger](lubelogger.md) — Web-based vehicle maintenance and fuel mileage tracker. (Demo, Source Code) MIT Docker/K8S/C#
+- [Mirumoji](mirumoji.md) — Japanese immersion toolkit providing clickable, tokenized subtitles with dictionary lookups and transcription generation. (Demo, Source Code) MIT Docker/Python
+- [mosparo](mosparo.md) — Modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. (Source Code) MIT PHP
+- [Movary](movary.md) — Web app to track and rate your watched movies. (Demo) MIT Docker/PHP
+- [Neko](neko.md) — Virtual browser that runs in docker and uses WebRTC. (Source Code) Apache-2.0 Docker/Go
+- [OmniTools](omnitools.md) — Collection of powerful web-based tools for everyday tasks (coding, manipulating images/videos, PDFs or crunching numbers...). (Source Code) MIT Docker
+- [Open-Meteo](open-meteo.md) — Weather API with open-data forecasts, historical and climate data from all major national weather services. (Demo, Source Code) AGPL-3.0 Docker
+- [OpenReader](openreader.md) — EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. (Source Code) MIT…
+- [OpenZiti](openziti.md) — Fully-featured, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. (Source Code)…
+- [Operational.co](operational-co.md) — Receive alerts in a live timeline from your product. (Demo, Source Code) AGPL-3.0 Nodejs/Docker
+- [penpot](penpot.md) — Web-based design and prototyping platform meant for cross-domain teams. (Source Code) MPL-2.0 Docker
+- [POMjs](pomjs.md) — Random password generator. (Source Code) GPL-2.0 Javascript
+- [Pønskelisten](p-nskelisten.md) — Sharing wishlists and collaborating on gifts and presents. GPL-3.0 Docker/Go
+- [re:Director](re-director.md) — Simple domain redirection management tool. (Source Code) Apache-2.0 Java/Docker
+- [Reactive Resume](reactive-resume.md) — One-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable and portable. (Demo, Source Code) MIT Docker/Nodejs
+- [revealjs](revealjs.md) — Framework for easily creating beautiful presentations using HTML. (Demo, Source Code) MIT Javascript
+- [Revive Adserver](revive-adserver.md) — Ad serving system. Formerly known as OpenX Adserver and phpAdsNew. (Source Code) GPL-2.0 PHP
+- [SANE Network Scanning](sane-network-scanning.md) — Allow remote clients to access image acquisition devices (scanners) available on the local host. (Source Code) GPL-2.0 C
+- [string.is](string-is.md) — Online string toolkit for developers. (Source Code) AGPL-3.0 Nodejs
+- [Teleport](teleport.md) — Certificate authority and access plane for SSH, Kubernetes, web applications, and databases. (Source Code) Apache-2.0 Go/Docker/K8S
+- [TeslaMate](teslamate.md) — Powerful data logger for Tesla vehicles. MIT Elixir/Docker
+- [Transmute](transmute.md) — File converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!. (Source Code) MIT Docker
+- [URL-to-PNG](url-to-png.md) — URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB. MIT Nodejs/Docker
+- [Usertour](usertour.md) — User onboarding platform allowing you to create in-app product tours, checklists, and surveys in minutes effortlessly. (Source Code) AGPL-3.0 Docker
+- [Warracker](warracker.md) — Warranty tracker that lets you monitor expiry dates, upload receipts/files, and get alerts before warranties expire. (Source Code) AGPL-3.0 Docker
+- [Wavelog](wavelog.md) — Webbased Logging Software for Radio Amateurs. Enhanced QSO logging, statistics and maps for your browser. (Demo, Source Code) MIT PHP/Docker
+- [WeeWX](weewx.md) — Software for your weather station. (Demo, Source Code) GPL-3.0 Python/deb
+- [WeTTY](wetty.md) — Terminal in browser over http/https. (Source Code) MIT Docker/Nodejs
+- [Wishlist](wishlist.md) — Wishlist application that you can share with your friends and family. MIT Docker/K8S
+- [Yamtrack](yamtrack.md) — Media tracker for movies, tv shows, anime, manga, video games and books. (Demo) AGPL-3.0 Docker/Python
+- [Zero-TOTP](zero-totp.md) — Complete, reliable, secure and zero-trust webapp based on zero-knowledge encryption to store your TOTP codes. (Source Code) GPL-3.0 Docker

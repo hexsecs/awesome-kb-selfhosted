@@ -1,0 +1,30 @@
+{
+  "openshelf": "1.7",
+  "id": "awesome-kb-selfhosted",
+  "uid": "d82f2ee0-74cf-4af4-9536-803a6966c7a2",
+  "title": "Selfhosted (Awesome KB)",
+  "description": "Resource knowledge base ingested from awesome-selfhosted/awesome-selfhosted, preserving the canonical list's categories and descriptions.",
+  "profile": "awesome",
+  "version": "2026.11.04",
+  "license": "CC-BY-SA-3.0",
+  "maintainers": [
+    "hexsecs"
+  ],
+  "tags": [
+    "selfhosted",
+    "awesome"
+  ],
+  "layout": {
+    "pages": "wiki",
+    "index": "index.md",
+    "sources": "raw",
+    "schema": "AGENTS.md",
+    "log": "log.md",
+    "checksums": "raw/MANIFEST.sha256"
+  },
+  "x-ingest": {
+    "source": "github:awesome-selfhosted/awesome-selfhosted",
+    "file": "README.md",
+    "tool": "tools/ingest.py"
+  }
+}

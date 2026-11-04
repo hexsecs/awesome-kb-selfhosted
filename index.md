@@ -1,0 +1,90 @@
+# Selfhosted (Awesome KB)
+
+Resource knowledge base ingested from awesome-selfhosted/awesome-selfhosted, preserving the canonical list's categories and descriptions.
+
+## Categories
+
+- [Analytics](wiki/index-analytics.md) — 30 entries
+- [Archiving and Digital Preservation (DP)](wiki/index-archiving-and-digital-preservation-dp.md) — 14 entries
+- [Automation](wiki/index-automation.md) — 27 entries
+- [Blogging Platforms](wiki/index-blogging-platforms.md) — 14 entries
+- [Booking and Scheduling](wiki/index-booking-and-scheduling.md) — 9 entries
+- [Bookmarks and Link Sharing](wiki/index-bookmarks-and-link-sharing.md) — 17 entries
+- [Calendar & Contacts](wiki/index-calendar-contacts.md) — 8 entries
+- [Communication - Custom Communication Systems](wiki/index-communication-custom-communication-systems.md) — 39 entries
+- [Communication - Email - Complete Solutions](wiki/index-communication-email-complete-solutions.md) — 17 entries
+- [Communication - Email - Mail Delivery Agents](wiki/index-communication-email-mail-delivery-agents.md) — 3 entries
+- [Communication - Email - Mail Transfer Agents](wiki/index-communication-email-mail-transfer-agents.md) — 9 entries
+- [Communication - Email - Mailing Lists and Newsletters](wiki/index-communication-email-mailing-lists-and-newsletters.md) — 10 entries
+- [Communication - Email - Webmail Clients](wiki/index-communication-email-webmail-clients.md) — 4 entries
+- [Communication - IRC](wiki/index-communication-irc.md) — 11 entries
+- [Communication - SIP](wiki/index-communication-sip.md) — 12 entries
+- [Communication - Social Networks and Forums](wiki/index-communication-social-networks-and-forums.md) — 40 entries
+- [Communication - Video Conferencing](wiki/index-communication-video-conferencing.md) — 9 entries
+- [Communication - XMPP - Servers](wiki/index-communication-xmpp-servers.md) — 6 entries
+- [Communication - XMPP - Web Clients](wiki/index-communication-xmpp-web-clients.md) — 3 entries
+- [Community-Supported Agriculture (CSA)](wiki/index-community-supported-agriculture-csa.md) — 8 entries
+- [Conference Management](wiki/index-conference-management.md) — 5 entries
+- [Content Management Systems (CMS)](wiki/index-content-management-systems-cms.md) — 41 entries
+- [Customer Relationship Management (CRM)](wiki/index-customer-relationship-management-crm.md) — 7 entries
+- [Database Management](wiki/index-database-management.md) — 18 entries
+- [DNS](wiki/index-dns.md) — 6 entries
+- [Document Management](wiki/index-document-management.md) — 19 entries
+- [Document Management - E-books](wiki/index-document-management-e-books.md) — 15 entries
+- [Document Management - Institutional Repository and Digital Library Software](wiki/index-document-management-institutional-repository-and-digital-library-software.md) — 6 entries
+- [Document Management - Integrated Library Systems (ILS)](wiki/index-document-management-integrated-library-systems-ils.md) — 3 entries
+- [E-commerce](wiki/index-e-commerce.md) — 21 entries
+- [Feed Readers](wiki/index-feed-readers.md) — 24 entries
+- [File Transfer & Synchronization](wiki/index-file-transfer-synchronization.md) — 16 entries
+- [File Transfer - Object Storage & File Servers](wiki/index-file-transfer-object-storage-file-servers.md) — 6 entries
+- [File Transfer - Peer-to-peer Filesharing](wiki/index-file-transfer-peer-to-peer-filesharing.md) — 8 entries
+- [File Transfer - Single-click & Drag-n-drop Upload](wiki/index-file-transfer-single-click-drag-n-drop-upload.md) — 28 entries
+- [File Transfer - Web-based File Managers](wiki/index-file-transfer-web-based-file-managers.md) — 15 entries
+- [Games](wiki/index-games.md) — 19 entries
+- [Games - Administrative Utilities & Control Panels](wiki/index-games-administrative-utilities-control-panels.md) — 21 entries
+- [Genealogy](wiki/index-genealogy.md) — 5 entries
+- [Generative Artificial Intelligence (GenAI)](wiki/index-generative-artificial-intelligence-genai.md) — 13 entries
+- [Groupware](wiki/index-groupware.md) — 13 entries
+- [Health and Fitness](wiki/index-health-and-fitness.md) — 7 entries
+- [Human Resources Management (HRM)](wiki/index-human-resources-management-hrm.md) — 3 entries
+- [Internet of Things (IoT)](wiki/index-internet-of-things-iot.md) — 20 entries
+- [Inventory Management](wiki/index-inventory-management.md) — 9 entries
+- [Knowledge Management Tools](wiki/index-knowledge-management-tools.md) — 7 entries
+- [Learning and Courses](wiki/index-learning-and-courses.md) — 15 entries
+- [Manufacturing](wiki/index-manufacturing.md) — 7 entries
+- [Maps and Global Positioning System (GPS)](wiki/index-maps-and-global-positioning-system-gps.md) — 17 entries
+- [Media Management](wiki/index-media-management.md) — 30 entries
+- [Media Streaming - Audio Streaming](wiki/index-media-streaming-audio-streaming.md) — 27 entries
+- [Media Streaming - Multimedia Streaming](wiki/index-media-streaming-multimedia-streaming.md) — 16 entries
+- [Media Streaming - Video Streaming](wiki/index-media-streaming-video-streaming.md) — 14 entries
+- [Miscellaneous](wiki/index-miscellaneous.md) — 74 entries
+- [Money, Budgeting & Management](wiki/index-money-budgeting-management.md) — 37 entries
+- [Network Utilities](wiki/index-network-utilities.md) — 11 entries
+- [Note-taking & Editors](wiki/index-note-taking-editors.md) — 22 entries
+- [Office Suites](wiki/index-office-suites.md) — 6 entries
+- [Password Managers](wiki/index-password-managers.md) — 7 entries
+- [Pastebins](wiki/index-pastebins.md) — 20 entries
+- [Personal Dashboards](wiki/index-personal-dashboards.md) — 19 entries
+- [Photo Galleries](wiki/index-photo-galleries.md) — 21 entries
+- [Polls and Events](wiki/index-polls-and-events.md) — 19 entries
+- [Proxy](wiki/index-proxy.md) — 10 entries
+- [Recipe Management](wiki/index-recipe-management.md) — 10 entries
+- [Remote Access](wiki/index-remote-access.md) — 9 entries
+- [Resource Planning](wiki/index-resource-planning.md) — 8 entries
+- [Search Engines](wiki/index-search-engines.md) — 14 entries
+- [Self-hosting Solutions](wiki/index-self-hosting-solutions.md) — 22 entries
+- [Software Development - API Management](wiki/index-software-development-api-management.md) — 12 entries
+- [Software Development - Feature Toggle](wiki/index-software-development-feature-toggle.md) — 5 entries
+- [Software Development - IDE & Tools](wiki/index-software-development-ide-tools.md) — 12 entries
+- [Software Development - Localization](wiki/index-software-development-localization.md) — 4 entries
+- [Software Development - Low Code](wiki/index-software-development-low-code.md) — 9 entries
+- [Software Development - Project Management](wiki/index-software-development-project-management.md) — 35 entries
+- [Software Development - Testing](wiki/index-software-development-testing.md) — 3 entries
+- [Task Management & To-do Lists](wiki/index-task-management-to-do-lists.md) — 23 entries
+- [Ticketing](wiki/index-ticketing.md) — 13 entries
+- [Time Tracking](wiki/index-time-tracking.md) — 10 entries
+- [Travel Organization](wiki/index-travel-organization.md) — 2 entries
+- [URL Shorteners](wiki/index-url-shorteners.md) — 9 entries
+- [Video Surveillance](wiki/index-video-surveillance.md) — 8 entries
+- [Web Servers](wiki/index-web-servers.md) — 19 entries
+- [Wikis](wiki/index-wikis.md) — 23 entries
